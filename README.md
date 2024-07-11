@@ -8,7 +8,7 @@
 - Improved Customers experience by identifying potential customers across different states, occupations, gender, and age groups.
 - Improved sales by identifying most selling products and categories, which helps to plan inventory and hence meet demands.
 - Improved revenue by identifying products that favourites across any age groups.
-- 
+  
 ### Our execution plan
 - Our plan is to clean data and perform EDA over it.
 - From visualization fetch the required result.
